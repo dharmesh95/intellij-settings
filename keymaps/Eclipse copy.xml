@@ -1,4 +1,8 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift alt x" />
     <keyboard-shortcut first-keystroke="shift f10" />
